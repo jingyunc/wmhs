@@ -1,2 +1,4 @@
 # wmhs
-Automated subdivision of white matter hypersensitivities
+Automated subdivision of white matter hyperintensities
+
+Need Matlab
