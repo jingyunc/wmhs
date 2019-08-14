@@ -1,4 +1,4 @@
-# wmhs
+# WMHS Toolbox
 Automated subdivision of white matter hyperintensities
 
 Need Matlab
