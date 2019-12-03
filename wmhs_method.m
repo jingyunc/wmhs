@@ -31,7 +31,7 @@ function Out = wmhs_method(Mask_WMH,Mask_WM,Dmap_Vent,Dmap_Cort,Method)
 if nargin~=5
     disp('Usage: Out = wmhs_method(Mask_WMH,Mask_WM,Dmap_Vent,Dmap_Cort,Method)');
 else
-    if ismember (Method,{'DM10','DM313','CC','BD')
+    if ismember (Method,{'DM10','DM313','CC','BD'})
         eval(['Out = wmhs_' Method '(Mask_WMH,Mask_WM,Dmap_Vent,Dmap_Cort);']);
     else
         disp('No elegible method recogoized.');
