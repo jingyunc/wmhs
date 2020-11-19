@@ -1,4 +1,4 @@
-# WMHS Toolbox
+# White Matter Hyperintensities Subdivision (WMHS) Toolbox
 ## Automated subdivision of white matter hyperintensities
 *by Jingyun (Josh) Chen at Neurology Dept, NYU School of Medicine*
 
