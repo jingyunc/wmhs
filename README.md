@@ -1,6 +1,6 @@
 # White Matter Hyperintensities Subdivision (WMHS) Toolbox
 ## Automated subdivision of white matter hyperintensities
-*by Jingyun (Josh) Chen at Neurology Dept, NYU School of Medicine*
+*by Jingyun "Josh" Chen at Neurology Dept, NYU School of Medicine*
 
 ![Segmentation Methods](docs/method_update.png)
 Figure modified from [1].
